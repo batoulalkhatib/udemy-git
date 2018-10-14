@@ -1,5 +1,5 @@
-## udemy-git course
+## udemy-introduction git course
 ### first assignment
 
-name :batoul alkhatib
-note : good luck 
+* name :batoul alkhatib
+* note : good luck 
